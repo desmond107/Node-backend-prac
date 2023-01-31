@@ -1,6 +1,7 @@
 {
   "name": "node-backend-pracs",
   "author": "DEsmond.K",
+  "description": "A project that does something awesome",
   "version": "0.0.0",
   "private": true,
   "scripts": {
